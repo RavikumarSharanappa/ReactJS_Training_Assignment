@@ -1,0 +1,32 @@
+{
+  "emps": [
+    {
+      "empno": "2",
+      "ename": "Avinash",
+      "job": "Non IT",
+      "sal": "20000",
+      "deptno": "20"
+    },
+    {
+      "empno": "3",
+      "ename": "Nishanth",
+      "job": "IT",
+      "sal": "30000",
+      "deptno": "30"
+    },
+    {
+      "empno": "4",
+      "ename": "Vijaya",
+      "job": "Govt Employee",
+      "sal": "20000",
+      "deptno": "40"
+    },
+    {
+      "empno": "1",
+      "ename": "Ravikumar",
+      "job": "IT/ITES",
+      "sal": "10000",
+      "deptno": "10"
+    }
+  ]
+}
